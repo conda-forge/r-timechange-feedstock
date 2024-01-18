@@ -3,6 +3,7 @@ About r-timechange-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-timechange-feedstock/blob/main/LICENSE.txt)
 
+
 About r-timechange
 ------------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/vspinu/timechange/
 Package license: GPL-3.0-only AND Apache-2.0
 
 Summary: Efficient routines for manipulation of date-time objects while accounting for time-zones and daylight saving times. The package includes utilities for updating of date-time components (year, month, day etc.), modification of time-zones, rounding of date-times, period addition and subtraction etc. Parts of the 'CCTZ' source code, released under the Apache 2.0 License, are included in this package. See <https://github.com/google/cctz> for more details.
+
 About r-timechange
 ------------------
 
@@ -195,7 +197,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
